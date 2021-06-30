@@ -49,13 +49,13 @@
 
 ## Tech and languges tools
 - Language <br />
-<code><a href="https://www.javascript.com/" target="_blank"><img widht="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
 - Frontend✨ <br />
 
-<code><a href="https://html5.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://html5.org/" target="_blank"><img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https:https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a></code>
 
