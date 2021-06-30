@@ -1,5 +1,11 @@
 ### Hi, I'm Mario 👋
+![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
 
+
+🔗Some links to check more of my work and get in touch!
+
+[![linkedin](https://user-images.githubusercontent.com/77025067/123890289-95c59e00-d91c-11eb-9997-5b2023f99b82.png)
+](https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/)
 <!--
 **mariomartinez81/mariomartinez81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
