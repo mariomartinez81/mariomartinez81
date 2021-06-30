@@ -1,4 +1,6 @@
 ## Hi, I'm Mario 👋
+<h3 align="center">🚀A passionate software and web development🚀</h3>
+
 ![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
 
 ## Tech and languges tools
@@ -23,14 +25,22 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ## 👨🏻‍💻 What do I do?
-
+- 💬 Ask me about **React, Redux, Javascript, Typescript, Express, Node, PostgreSQL, perfomance web and anything about web development**
 
 
 ## 💻 What am I working on now?
 
+- I’m currently working on [game-store-app](https://github.com/mariomartinez81/PI-Videogames-FT13)
+- 🌱 I’m currently learning **MongoDB, Python**
 
 
 ## 🔗Some links to check more of my work and get in touch!
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/](https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/)
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-mart%c3%adnez-671131175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-mart%c3%adnez-671131175/" height="30" width="40" /></a>
+</p>
 
 
 <div>
@@ -41,17 +51,10 @@
   <hr />
 </div>
 
+
 ## test!!!!
-<h1 align="center">Hi 👋, I'm Mario Martinez</h1>
-<h3 align="center">A passionate software and web development</h3>
 
-- 🔭 I’m currently working on [game-store-app](https://github.com/mariomartinez81/PI-Videogames-FT13)
 
-- 🌱 I’m currently learning **MongoDB, Python**
-
-- 💬 Ask me about **React, Redux, Javascript, Typescript, Express, Node, PostgreSQL, perfomance web and anything about web development**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/](https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
