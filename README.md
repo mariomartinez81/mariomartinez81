@@ -1,4 +1,4 @@
-## Hi, I'm Mario 👋
+<h1 align='center'> Hi, I'm Mario 👋 </h1>
 <h3 align="center">🚀A passionate software and web development🚀</h3>
 
 ![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
@@ -37,11 +37,6 @@
 ## 🔗Some links to check more of my work and get in touch!
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/](https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/)
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-mart%c3%adnez-671131175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-mart%c3%adnez-671131175/" height="30" width="40" /></a>
-</p>
-
 
 <div>
   <ul>
