@@ -41,7 +41,6 @@
 <code><a href="https://github.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></code>
 <code><a href="https://www.heroku.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://cp-logo.vercel.app/codechef/"></a></code>
 </div>
 
 
