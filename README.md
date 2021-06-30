@@ -1,4 +1,4 @@
-### Hi, I'm Mario 👋
+## Hi, I'm Mario 👋
 ![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
 
 ## Tech tools
@@ -26,11 +26,11 @@
 
 
 
-###💻 What am I working on now?
+## 💻 What am I working on now?
 
 
 
-##🔗Some links to check more of my work and get in touch!
+## 🔗Some links to check more of my work and get in touch!
 
 
 <div>
