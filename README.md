@@ -49,17 +49,31 @@
 
 ## Tech and languges tools
 - Language <br />
+
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a></code>
 
 - Frontend✨ <br />
 
-<code><a href="https://html5.org/" target="_blank"><img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https:https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-<code><a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a></code>
+<code><a href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a></code>
+<code><a href="https://es.redux.js.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code>
+<code><a href="https://html5.org/" target="_blank"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></code>
+<code><a href="https:https://tailwindcss.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a></code>
+<code><a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></code>
+<code><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a></code>
+<code><a href="https://styled-components.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a></code>
+
+
 
 - Backend <br />
+
+<code><a href="https://nodejs.org/es/" target="_blank"><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a></code>
+<code><a href="https://expressjs.com/es/" target="_blank"><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a></code>
+<code><a href="https://www.mongodb.com/es" target="_blank"><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a></code>
+
 - Database <br />
 - Tools <br />
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
