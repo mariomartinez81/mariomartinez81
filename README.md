@@ -1,7 +1,7 @@
 ### Hi, I'm Mario 👋
 ![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
 
-
+💻 What am I working on now?
 🔗Some links to check more of my work and get in touch!
 
 [![linkedin](https://user-images.githubusercontent.com/77025067/123890289-95c59e00-d91c-11eb-9997-5b2023f99b82.png)
