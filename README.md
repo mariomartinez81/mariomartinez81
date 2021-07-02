@@ -51,6 +51,9 @@
 
 ### 🌟 Featured projects
 
+
+  
+  
 <div align="center">
   <div>
   <a href="https://github.com/mariomartinez81/PI-Videogames-FT13">🎮 Video games APP 🎮</a>
@@ -96,7 +99,9 @@
   <ul>
     <li><a href="https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/"><img src="https://img.icons8.com/android/24/4a90e2/linkedin.png" /><span> <b>LinkedIn</b></span></a></li>
     <li><a href="mailto:marioaviva@gmail.com"><img src="https://img.icons8.com/material/24/ffffff/mail.png" /><span> <b>Email</b></span></a></li>
+    <li><p><b>CV:</b></p> (https://github.com/mariomartinez81/mariomartinez81/files/6752744/Mario.Yamid.Martinez.Hidalgo_CV.pdf) </li>
   </ul>
+     
   <hr />
 </div>
 
