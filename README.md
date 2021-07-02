@@ -56,7 +56,7 @@
 
 ## 🔗Some links to check more of my work and get in touch!
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/](https://www.linkedin.com/in/mario-mart%C3%ADnez-671131175/)
+- 📄 Know about my experiences [https://videogames-app-psi.vercel.app/)
 
 <div>
   <ul>
