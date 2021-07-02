@@ -52,9 +52,11 @@
 ### 🌟 Featured projects
 
 <div align="center">
-  <a href="https://github.com/mariomartinez81/PI-Videogames-FT13"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=PokeAPP" /></a>
+  <a href="https://github.com/mariomartinez81/PI-Videogames-FT13">🎮 Video games APP 🎮</a>
   <br />
-  <a href="https://github.com/cristianblar/petgram_project"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=petgram_project" /></a>
+  <br />
+  
+  <a href="https://github.com/mariomartinez81/moviesApp">🍿 movies APP 📽</a>
 </div>
 
 ## 💻 What am I working on now?
