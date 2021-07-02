@@ -48,8 +48,27 @@
 - 💬 Ask me about **React, Redux, Javascript, Typescript, Express, Node, PostgreSQL, perfomance web and anything about web development**
 
 
+
+### 🌟 Featured projects
+
+<div align="center">
+  <a href="https://github.com/mariomartinez81/PI-Videogames-FT13"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=PokeAPP" /></a>
+  <br />
+  <a href="https://github.com/cristianblar/petgram_project"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=petgram_project" /></a>
+</div>
+
 ## 💻 What am I working on now?
 
+<div align="center">
+  <a href="https://github.com/cristianblar/game_store"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=game_store" /></a>
+  <h4><strong>Best 120</strong>Videogames e-commerce</h4>
+  <br />
+</div>
+
+  
+  
+  
+  
 - I’m currently working on [game-store-app](https://github.com/mariomartinez81/PI-Videogames-FT13)
 - 🌱 I’m currently learning **MongoDB, Python**
 
