@@ -52,26 +52,39 @@
 ### 🌟 Featured projects
 
 <div align="center">
+  <div>
   <a href="https://github.com/mariomartinez81/PI-Videogames-FT13">🎮 Video games APP 🎮</a>
+  <p>Full Stack Project</p>
+    <li><b>Data base:</b> <p>( PostgresSQL, Sequielize )</p></li>
+    <li><b>Backend:</b> <p>( NodeJS, Express )</p></li>
+    <li><b>Frontend:</b> <p>( React, Redux, css )</p></li>
+    <li><b>Deployment:</b><p>( Heroku, Vercel )</p></li>
+  </div>
   <br />
   <br />
-  
+  <div>
   <a href="https://github.com/mariomartinez81/moviesApp">🍿 movies APP 📽</a>
+      <p>React Redux Project </p>
+    <li><b>Backend:</b> <p>( Fake Api )</p></li>
+    <li><b>Frontend:</b> <p>( React, Redux, css )</p></li>
+    <li><b>Deployment:</b><p>( Heroku, Vercel )</p></li>
+   </div>
 </div>
 
 ## 💻 What am I working on now?
 
 <div align="center">
-  <a href="https://github.com/cristianblar/game_store"><img src="https://github-readme-stats-cristianblar.vercel.app/api/pin/?username=cristianblar&repo=game_store" /></a>
-  <h4><strong>Best 120</strong>Videogames e-commerce</h4>
+    <div>
+  <a href="https://github.com/mariomartinez81/APP-TypeScript">E-Commerce</a>
+  <p>Full Stack Project</p>
+    <li><b>Language:</b> <p>( Typescript )</p></li>  
+    <li><b>Data base:</b> <p>( PostgresSQL, Sequielize )</p></li>
+    <li><b>Backend:</b> <p>( NodeJS, Express )</p></li>
+    <li><b>Frontend:</b> <p>( React, Redux, Sass )</p></li>
+  </div>
   <br />
 </div>
 
-  
-  
-  
-  
-- I’m currently working on [game-store-app](https://github.com/mariomartinez81/PI-Videogames-FT13)
 - 🌱 I’m currently learning **MongoDB, Python**
 
 
