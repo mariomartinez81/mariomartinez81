@@ -3,7 +3,7 @@
 
 ![banner](https://user-images.githubusercontent.com/77025067/123890397-c1e11f00-d91c-11eb-9a8a-1a6364079932.gif)
 
-## Tech and languges tools
+## Tech and languages tools
 <h4 align='center'>Language:</h4>
 <div align='center'>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a></code>
