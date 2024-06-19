@@ -13,13 +13,17 @@
 
 <h4 align='center'>Frontend: <h4/>
 <div align='center'>
-<code><a href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a></code>
-<code><a href="https://es.redux.js.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code>
-<code><a href="https://html5.org/" target="_blank"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></code>
-<code><a href="https:https://tailwindcss.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a></code>
-<code><a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></code>
-<code><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a></code>
-<code><a href="https://styled-components.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a></code>
+  <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a></code>
+  <code><a href="https://redux.js.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a></code>
+  <code><a href="https://html.spec.whatwg.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a></code>
+  <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a></code>
+  <code><a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></code>
+  <code><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a></code>
+  <code><a href="https://styled-components.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a></code>
+  <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a></code>
+  <code><a href="https://angular.io/" target="_blank"><img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a></code>
+  <code><a href="https://vuejs.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a></code>
 </div>
 
 
